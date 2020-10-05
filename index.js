@@ -364,7 +364,6 @@ function playGame(clickedCell) {
 
 
 //BOTMOVES CHANGE TEXTS
-
 function botmove(moves) {
 //   alert(moves[0] + "-" + moves[1]);
     ++numberOfMoves;
